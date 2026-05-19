@@ -1,1 +1,1 @@
-# simple-notes-app
+# Simple Notes App
